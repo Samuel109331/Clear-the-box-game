@@ -30,6 +30,10 @@ td {
 #intro button {
     margin-top: 10%;
     display: block;
+    background-color:cyan;
+    color:#FFF;
+    padding:10px;
+    border:none;
 }
 #intro button:nth-of-type(1) {
     margin-left: 20%;
